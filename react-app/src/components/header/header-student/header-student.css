@@ -1,0 +1,8 @@
+.studentBody{
+    width: 100%;
+    justify-content: space-between;
+}
+
+.controll-button{
+    margin-right: 30px;
+}
